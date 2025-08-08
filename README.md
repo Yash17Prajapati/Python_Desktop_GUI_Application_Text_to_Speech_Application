@@ -157,3 +157,8 @@ venv\Scripts\activate      # Windows
 - **Internet Connection Required** for gTTS and googletrans.
 - If you need **offline mode**, you can stick to ```pyttsx3``` for speech (but voice quality may differ).
 - The audio is saved temporarily in your system when playing — you can save it permanently via the **Save** button.
+
+---
+
+## 📜 License
+- This project is **open-source** and **free to use**.
