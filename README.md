@@ -22,7 +22,7 @@ You can **play, pause, stop, replay, and save** the generated audio.
 ## 📂 Project Structure
 ```
 📦 TextToSpeechApp
- ┣ 📜 main.py           # Main application code
+ ┣ 📜 project.py           # Main application code
  ┣ 📜 README.md         # Documentation file (this file)
 ```
 
